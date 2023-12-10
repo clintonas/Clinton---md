@@ -33,12 +33,6 @@
 [![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OaqrZi) 
 ---------
 
-
-## ```HEROKU DEPLOYMENT```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
-
-
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo
@@ -46,7 +40,13 @@
 <a href="https://github.com/xhclintohn/Clinton---md/fork"><img title="Clint-MD" src="https://img.shields.io/badge/FORK Clinton-md-h?color=black&style=for-the-badge&logo=stackshare"></a>
 - 2. ***Get [SESSION-ID](https://ikratos-md-web.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
-- 4. Simply click Deploy to heroku button above
+- 4. Simply click Deploy to heroku button below
+
+
+## ```HEROKU DEPLOYMENT```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
+
 
 
 ## ```QR SCAN```
