@@ -12,9 +12,9 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 
 
 conn.reply(m.chat, info, fakes,{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://Instagram.com/itx_ahmad.ali",
+      mediaUrl: "https://Instagram.com/mr.xh_clusive",
       mediaType: 2,
-      description: "https://Instagram.com/itx_ahmad.ali", 
+      description: "https://Instagram.com/mr.xh_clusive", 
       title: global.titlebot,
       body: wm,
       thumbnail: thumb,
