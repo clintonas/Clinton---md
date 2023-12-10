@@ -43,8 +43,11 @@
 - 4. Simply click Deploy to heroku button below
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+
+   <br>
+<a href='https://ikratos-md-web.xikratosx.repl.co' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+
 ---------
 
 
