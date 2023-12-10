@@ -1,22 +1,22 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/UIjcWeI.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/uSOiZ9Z.jpg" alt="01" border="0" /></a>
 </p>
 
 
-<h1 align="center">Clinton---md-v1</h1>
+<h1 align="center">Clinton-MD-v1</h1>
 <p align="center">
-  <a href="https://github.com/xhclintohn"><im src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Xhclinton"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="Clinton---md" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Clinton MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xhclintohn-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
 <h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
 
-## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV0B2HAy9OYaqrZi) To Stay Tuned.
+## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV02ZHA9OYaqrZi) To Stay Tuned.
 
 ---------
 
@@ -24,13 +24,14 @@
   <a href="https://wa.me/254735342808">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:xhclinton@gmail.com">
+  <a href="mailto:bmclips001@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
 ## ``Group Hosting Bot``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHAyhfOYaqrZi) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OYaqrZi) 
 ---------
+
 ## ```HEROKU DEPLOYMENT```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
@@ -52,7 +53,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://repl.it/github/xhclintohn/Clinton---md)
 
 <details>
 <summary>TERMUX DEPLOYMENT</summary>
@@ -64,8 +65,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/xhclintohn/Clinton-md
-$ cd Ikratos-MD-v1
+$ git clone https://github.com/xhclintohn/Clinton---md 
+$ cd Clinton---md
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -104,14 +105,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & Ikratos-MD]
+[ INSTALLING NODEJS & Clinton-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/xhclintohn/Clinton---md
-cd Ikratos-MD-v1
+git clone https://github.com/xhclintohn/Clinton---md 
+cd Clinton---md
 npm install
 npm update
 ```
@@ -172,7 +173,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 1. Not For Sale
 2. Don't forget give star this repo
 3. Don't use this repository wrong!
-4. If you have any problem chat me in owner number
+4. If you have problem chat me in owner number
 
 ---------
-    
