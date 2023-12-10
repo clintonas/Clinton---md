@@ -43,7 +43,7 @@
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://ikratos-md-web.Clinton---md.repl.co)
+[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ---------
 
