@@ -4,15 +4,15 @@ let handler = async (m, { conn }) => {
 ╭───[Ikratos-MD-v1]───╮
 │╭────────────────────
 ┴│👋 Hey there, ${conn.getName(m.sender)}!
-⬡│🤖 I'm Ikratos-MD-v1\n⬡│ I'm up and running! 🚀
+⬡│🤖 I'm Clinton-MD-v1\n⬡│ I'm up and running! 🚀
 │╰────────────────────
 ┠───[ BOT INFO ]────╮
 │╭────────────────────
 ┴│ Ikratos-MD-v1
 ⬡│💻 A WhatsApp bot created by:
-⬡│👨‍💻 Ahmad Ali 🇵🇰
+⬡│👨‍💻 Clinton 
 ⬡│📞 For any inquiries, contact:
-⬡│📱 wa.me/923470027813
+⬡│📱 wa.me/254735342808
 ⬡│🙅‍♂️ Don't call the owner or you\'ll be
 ⬡│ ignored or blocked! 😬
 │╰────────────────────
@@ -24,7 +24,7 @@ let handler = async (m, { conn }) => {
 ┬│🔸 .translate \n⬡│- Translates text to other lang
 │╰──────────────
 ╰────────═┅═───────
-*Thank you for choosing Ikratos-MD-v1! 🌟✨*
+*Thank you for choosing Clinton-MD-v1! 🌟✨*
 `.trim()
   m.reply(caption)
 }
