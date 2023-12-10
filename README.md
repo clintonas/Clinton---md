@@ -33,16 +33,17 @@
 [![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OaqrZi) 
 ---------
 
-## ```STEPS TO DEPLOY ON HEROKU```
+## ```⚡STEPS TO DEPLOY THIS BOT⚡```
 
 - 1. Fork this repo
+   Tap here 👇
   <br>
 <a href="https://github.com/xhclintohn/Clinton---md/fork"><img title="Clint-MD" src="https://img.shields.io/badge/FORK Clinton-md-h?color=black&style=for-the-badge&logo=stackshare"></a>
 - 2. ***Get [SESSION-ID](https://ikratos-md-web.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button below
 
-## ```QR SCAN```
+## ```⭐QR SCAN⭐```
 
    <br>
 <a href='https://ikratos-md-web.xikratosx.repl.co/id' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
@@ -51,26 +52,26 @@
 ---------
 
 
-## ```HEROKU DEPLOYMENT```
+## ```⭐HEROKU DEPLOYMENT⭐```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
 
 
 
 
-## ```USER RAILWAY```
+## ```⭐RAILWAY USER⭐```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 
-## ```USER REPLIT```
+## ```⭐REPLIT USER⭐```
 [![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://repl.it/github/xhclintohn/Clinton---md)
 
 <details>
 <summary>TERMUX DEPLOYMENT</summary>
 
 
-## TERMUX USER
+## TERMUX USER ##
 
 ```bash
 $ pkg upgrade && pkg update
