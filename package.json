@@ -1,7 +1,7 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "Clinton md",
     "version": "1.7.0",
-    "description": "Ikratos-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
+    "description": "Clinton-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/xhclintohn/Clinton---md",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "Xhclinton"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/xhclintohn/Clinton---md.git"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/xhclintohn/Clinton---md/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
