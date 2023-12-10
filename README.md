@@ -21,20 +21,23 @@
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/254735342808">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:xhclinton@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+
+<p align="center">
+
+<a href="https://api.whatsapp.com/send?phone=254735342808&text=𝘩𝘦𝘭𝘭𝘰 Clinton 🥰"><img src="https://img.shields.io/badge/Contact Clinton-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
 
 ## ``Group Hosting Bot``
 [![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OaqrZi) 
 ---------
 
+
 ## ```HEROKU DEPLOYMENT```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
+
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
@@ -45,20 +48,25 @@
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
+
 ## ```QR SCAN```
 [![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ---------
 
+
 ## ```USER RAILWAY```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+
 
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://repl.it/github/xhclintohn/Clinton---md)
 
 <details>
 <summary>TERMUX DEPLOYMENT</summary>
+
+
 ## TERMUX USER
 
 ```bash
@@ -75,6 +83,7 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 ```bash
 $ node .
 ```
+
 
 #### For android 10 and above don't use npm, use yarn install
 ```bash
