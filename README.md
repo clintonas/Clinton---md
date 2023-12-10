@@ -13,7 +13,7 @@
  <a href="#"><img title="Clinton MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Clinton-green.svg?style=for-the-badge&logo=github"></a>
 <h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
 
 ## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV02ZHA9OYaqrZi) To Stay Tuned.
@@ -24,12 +24,12 @@
   <a href="https://wa.me/254735342808">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:bmclips001@gmail.com">
+  <a href="mailto:xhclinton@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
 ## ``Group Hosting Bot``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OYaqrZi) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OaqrZi) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
