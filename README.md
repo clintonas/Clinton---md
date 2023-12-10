@@ -42,17 +42,17 @@
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button below
 
+## ```QR SCAN```
+[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
+<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+---------
+
 
 ## ```HEROKU DEPLOYMENT```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
 
 
-
-## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
----------
 
 
 ## ```USER RAILWAY```
