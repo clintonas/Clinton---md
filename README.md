@@ -1,12 +1,12 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.ib.co/cc8jfkX/01.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/UIjcWeI.jpg" alt="01" border="0" /></a>
 </p>
 
 
 <h1 align="center">Clinton---md-v1</h1>
 <p align="center">
-  <a href="https://github.com/xhclintohn"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/xhclintohn"><im src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
