@@ -4,37 +4,36 @@
 </p>
 
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">Clinton---md-v1</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/xhclintohn"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Clinton---md" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xhclintohn-green.svg?style=for-the-badge&logo=github"></a>
 <h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
 
-## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV0B2ZHAy9OYaqrZi) To Stay Tuned.
+## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV0B2HAy9OYaqrZi) To Stay Tuned.
 
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/254735342808">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:bmclips001@gmail.com">
+  <a href="mailto:xhclinton@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
 ## ``Group Hosting Bot``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHAy9OYaqrZi) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHAyhfOYaqrZi) 
 ---------
-
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhclintohn/Clinton---md)
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
@@ -44,7 +43,7 @@
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://ikratos-md-web.xikratosx.repl.co)
+[![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://ikratos-md-web.Clinton---md.repl.co)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ---------
 
@@ -53,7 +52,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/xhclintohn/Clinton---md)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
 
 <details>
 <summary>TERMUX DEPLOYMENT</summary>
@@ -65,7 +64,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+$ git clone https://github.com/xhclintohn/Clinton-md
 $ cd Ikratos-MD-v1
 $ npm i 
 ```
@@ -111,7 +110,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+git clone https://github.com/xhclintohn/Clinton---md
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -128,8 +127,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
+git clone https://github.com/xhclintohn/Clinton---md
+cd Clinton---md
 npm install
 npm update
 ```
@@ -173,22 +172,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 1. Not For Sale
 2. Don't forget give star this repo
 3. Don't use this repository wrong!
-4. If you have problem chat me in owner number
+4. If you have any problem chat me in owner number
 
 ---------
-
-<h1 align="center">Base Owner</h1>
-
-<a href="https://github.com/ImYanXiao"><img src="https://github.com/ImYanXiao.png" width="200" height="200" alt="ImYanXiao"/></a>
-
-<h1 align="center">RECODED BY</h1>
-<p align="center">
-<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="300" height="300" alt="xIKRATOSx"/></a>
-</p>
-
-----------
-
-<h1 align="center">THANKS TO</h1>
-<p align="center">
-<a href="https://github.com/BlackAmda"><img src="https://github.com/BlackAmda.png" width="300" height="300" alt="BlackAmda"/></a>
-</p>
+    
