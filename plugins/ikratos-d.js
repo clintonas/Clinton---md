@@ -3,11 +3,11 @@ let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }
  let capt = `*${htki} Dare ${htka}*
  _Please be honest and do your dare_
  
- Whatsapp Bot by Ahmad Ali
- *wa.me/923470027813*
+ Whatsapp Bot by Clinton 
+ *wa.me/254735342808*
  
  
- Follow me on instagram:\n\t\t\titx_ahmad.ali
+ Follow me on instagram:\n\t\t\tmr.xh_clusive
  `
 let buttons = [{ buttonText: { displayText: 'Truth or Dare' }, buttonId: `${usedPrefix}tod` }]
 
