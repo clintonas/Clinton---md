@@ -39,14 +39,14 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '0799283147' //Nomor Danamu
-global.ppulsa = '0799283147' //Nomor SimCard Yang Kamu Pake
+global.pdana = '0799283147' //Number 
+global.ppulsa = '0799283147' //Nomor SimCard 
 global.psaweria = 'https://saria.com/021' //Link Saweriamu Kalo Nggada Ketik - aja
 
-/*============== NOMOR ==============*/
+/*============== NUMBER ==============*/
 global.nomorbot = '254735342808' //Nomor Bot
 global.nomorown = '254735342808' //Nomor Owner
-global.namebot = 'Clinton---md' //Nama Bot
+global.namebot = 'Clinton--md' //Nama Bot
 global.nameown = 'Clinton' // Nama Owner
 
 
@@ -99,7 +99,7 @@ global.APIKeys = { // APIKey Here
 global.wm = '「 Clint md 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Clinton- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'Clinton md'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254735342808`
+global.footerTXT = `clinton-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +254735342808`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/mr.xh_clusive`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
