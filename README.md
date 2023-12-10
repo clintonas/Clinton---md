@@ -38,7 +38,8 @@
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
-- 1. Fork this repo (Don't forget to give a star)
+- 1. Fork this repohref="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
+<a (Don't forget to give a star)
 - 2. ***Get [SESSION-ID](https://ikratos-md-web.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
