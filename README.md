@@ -38,7 +38,9 @@
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
-- 1. Fork this repo href="https://github.com/xhclintohn/Clinton---md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/xhclintohn/Clinton---md?style=social"></a>
+- 1. Fork this repo
+  <br>
+<a href="https://github.com/xhclintohn/Clinton---md/fork"><img title="Clint-MD" src="https://img.shields.io/badge/FORK Clinton---md-h?color=black&style=for-the-badge&logo=stackshare"></a>
 <a (Don't forget to give a star)
 - 2. ***Get [SESSION-ID](https://ikratos-md-web.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
