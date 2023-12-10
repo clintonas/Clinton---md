@@ -6,7 +6,7 @@ let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }
  `
 let buttons = [{ buttonText: { displayText: 'Truth' }, buttonId: `${usedPrefix}truth ${text} ` }, { buttonText: { displayText: 'Dare' }, buttonId: `${usedPrefix}dare ${text} ` }]
 							 
-let msg = await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/cc8jfkX/01.jpg' }, caption: capt, footer: `Follow me on instagram:\n\t\tinstagram.com\itx_ahmad.ali`, buttons }, { quoted: m })
+let msg = await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/cc8jfkX/01.jpg' }, caption: capt, footer: `Follow me on instagram:\n\t\tinstagram.com\mr.xh_clusive`, buttons }, { quoted: m })
 }
 
 handler.command = /^tod?$/i
