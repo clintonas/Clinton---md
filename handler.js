@@ -319,7 +319,7 @@ export async function handler(chatUpdate) {
                     sDemote: '',
                     delete: true,
                     antiLink: false,
-                    viewonce: false,
+                    viewonce: true,
                     antiToxic: true,
                     simi: false,
                     expired: 0,
@@ -328,7 +328,7 @@ export async function handler(chatUpdate) {
                     premium: false,
 	            premiumTime: false,
                     premnsfw: false,
-                    autochat: false, 
+                    autochat: true, 
                 }
             let settings = global.db.data.settings[this.user.jid]
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
@@ -756,7 +756,7 @@ export async function groupsUpdate(groupsUpdate) {
         if (groupUpdate.restrict == false) text = (chats.sRestrictOff || this.sRestrictOff || conn.sRestrictOff || '*Group has been only admin!*')
         if (!text) continue
         this.reply(id, text.trim(), fakes)
-        //this.send2ButtonDoc(id, text.trim(), author, '🔖 Ahmad Ali', '.off detect', '🎀 Menu', '.menu', fakes, adReply)
+        //this.send2ButtonDoc(id, text.trim(), author, '🔖 Clinton', '.off detect', '🎀 Menu', '.menu', fakes, adReply)
     }
 }
 
