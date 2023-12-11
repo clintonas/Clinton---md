@@ -21,5 +21,5 @@ let handler = async (m, { conn, text }) => {
 handler.help = ['attp125']
 handler.tags = ['sticker']
 handler.command = /^(attp125)$/i
-//Made By Anshul
+//Made By Clint
 export default handler
