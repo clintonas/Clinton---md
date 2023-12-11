@@ -6,7 +6,7 @@
 
 <h1 align="center">Clinton-MD-v1</h1>
 <p align="center">
-  <a href="https://github.com/Xhclinton"><img src="http://readme-tyng-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Clinton;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Xhclinton"><img src="http://readme-tyng-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Clinton+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Clinton;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <a href="https://github.com/xhclintohn"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Clinton-green.svg?style=for-the-badge&logo=github"></a>
 <h1 align="centre">I'm Archiving This Repo. And I'll Release New Bot Soon</h1>
 
-## Join [WhatsApp-Group](https://chat.whatsapp.com/KQQFlKV02ZHA9OYaqrZi) To Stay Tuned.
+## Join [WhatsApp-Group](https://chat.whatsapp.com/LQL2RFbHsdj6ExfmVxrTUD) To Stay Tuned.
 
 ---------
 
@@ -30,7 +30,7 @@
 
 
 ## ``Group Hosting Bot``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KQQFlKV0B2ZHy9OaqrZi) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LQL2RFbHsdj6ExfmVxrTUD) 
 ---------
 
 ## ```⚡STEPS TO DEPLOY THIS BOT⚡```
