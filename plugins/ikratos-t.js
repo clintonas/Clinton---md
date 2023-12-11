@@ -223,7 +223,7 @@ let buttons = [{ buttonText: { displayText: 'Truth or Dare' }, buttonId: `${used
 'What is the most irrational superstition you have?',
 'What is the weirdest food combination you enjoy?',
 'What is the stupidest thing you ever did on a dare?',
-	 "Describe some qualities of my owner Ahmad Ali, which makes him unique"
+	 "Describe some qualities of my owner Clinton, which makes him unique"
 ]
 							 
 let msg = await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/Kzjv9x5/truth.jpg' }, caption: `${pickRandom(truth)}`, footer: capt, buttons }, { quoted: m })
