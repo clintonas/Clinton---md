@@ -4,10 +4,10 @@ let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }
  _Please be honest and answer your Question_
 
  Whatsapp Bot by Ahmad Ali
- *wa.me/923470027813*
+ *wa.me/254735342808*
 
 
- Follow me on instagram:\n\t\t\titx_ahmad.ali
+ Follow me on instagram:\n\t\
  `
 let buttons = [{ buttonText: { displayText: 'Truth or Dare' }, buttonId: `${usedPrefix}tod` }]
 
