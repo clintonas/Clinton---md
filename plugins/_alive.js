@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
   let caption = `
-╭───[Ikratos-MD-v1]───╮
+╭───[Clinton-MD-v1]───╮
 │╭────────────────────
 ┴│👋 Hey there, ${conn.getName(m.sender)}!
 ⬡│🤖 I'm Clinton-MD-v1\n⬡│ I'm up and running! 🚀
